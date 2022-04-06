@@ -11,4 +11,4 @@ const CategoriesList = ({categories}) => {
   )
 }
 
-export default CategoriesList 
+export default CategoriesList
